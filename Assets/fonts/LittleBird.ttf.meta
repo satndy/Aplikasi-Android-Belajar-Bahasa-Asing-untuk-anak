@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3273d7cac5582b04e87c195ad4b210c8
+timeCreated: 1506609223
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LittleBird
+  fontNames:
+  - LittleBird
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

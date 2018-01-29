@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scene/sulit.unity
+  isLoaded: 1
+  isActive: 1
